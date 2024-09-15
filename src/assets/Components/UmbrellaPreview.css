@@ -1,0 +1,25 @@
+.preview-area {
+    position: relative;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .umbrella-preview {
+    position: relative;
+  }
+  
+  #umbrellaImage {
+    width: 300px;
+    height: auto;
+  }
+  
+  .logo-preview {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 100px;
+    max-height: 100px;
+  }
+  
